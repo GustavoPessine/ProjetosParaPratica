@@ -4,7 +4,7 @@ Este repositório contém projetos desenvolvidos para consolidar fundamentos de 
 🎲 Sorteador de Números
 Foco: Lógica inicial e manipulação de arrays.
 
-O que aprendi: Implementação de variáveis, conexão entre HTML e JavaScript, e reforço em estruturas de repetição ´(for/while)´, condicionais e métodos de arrays.
+O que aprendi: Implementação de variáveis, conexão entre HTML e JavaScript, e reforço em estruturas de repetição (for/while), condicionais e métodos de arrays.
 
 🎮 AluGames
 Foco: Manipulação do DOM.
